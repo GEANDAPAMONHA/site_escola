@@ -19,14 +19,56 @@ width: 18%;
 }
  
 .cabeçalho-lista-item{
+
 display: inline-block;
 margin: 0 16px;
 font-size: 24px;
+}
+.escola-imagem{
+width: 25%;
 
+}
+.escola{
+background-image: linear-gradient(#383D58,#4EBFE9);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+pad: 24px 0;
 
 
 }
 
 
+.escola-dive-conteudo{
+width: 35%;
 
 
+}
+
+.escola-titulo{
+padding: 24px 0;
+}
+
+
+
+
+.escola-testo-um{
+    padding: 24px 0;
+font-size: 24px;
+
+}
+
+.escola-testo-dois{
+    padding: 24px 0;
+    font-size: 24px;
+    
+}
+
+
+
+
+
+
+
+ 
